@@ -1,1 +1,1 @@
-# Calculator-demo
+# Linear Layout and Explicit Intent-demo
